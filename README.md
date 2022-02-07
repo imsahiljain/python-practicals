@@ -13,7 +13,7 @@ Expected Result : 2
 8. Write a Python program to clone or copy a list.
 9. Write a Python program to find the list of words that are longer than n from a given list of words. 
 10. Write a Python function that takes two lists and returns True if they have at least one common member. 
-11. Write a Python program to print a specified list after removing the Oth, 4th and 5th elements. 
+11. Write a Python program to print a specified list after removing the 0th, 4th and 5th elements. 
 ```
 Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow'] 
 Expected Output : ['Green', 'White', 'Black'] 
